@@ -3,5 +3,5 @@
 module.exports = app;
 
 function app() {
-    // TODO
+    return 'hello from app'
 }
